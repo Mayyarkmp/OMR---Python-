@@ -1,0 +1,91 @@
+{
+      "exam_sheet": {
+            "bit_question": {
+                  "default_degree": 1,
+                  "question_count": 0
+            },
+            "essay": {
+                  "row_count": 3,
+                  "show": true
+            },
+            "exam_language": "rtl",
+            "match": {
+                  "choice_count": 6,
+                  "default_degree": 1,
+                  "question_count": 6
+            },
+            "multiple_answers": false,
+            "multiple_choice": {
+                  "choice_count": 3,
+                  "default_degree": 1,
+                  "question_count": 3
+            },
+            "paper_size": "a4",
+            "student_id": "qr-code"
+      },
+      "exam_solution": {
+            "bit_question": [],
+            "essay": {
+                  "essay_degree": 1,
+                  "essay_objective": 1
+            },
+            "match": [
+                  {
+                        "answers": [
+                              1
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              1
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              3
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              4
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  }
+            ],
+            "multiple_choice": [
+                  {
+                        "answers": [
+                              0
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              1
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              0
+                        ],
+                        "degree": 1
+                  }
+            ]
+      }
+}

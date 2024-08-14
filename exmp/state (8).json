@@ -1,0 +1,124 @@
+{
+      "exam_sheet": {
+            "bit_question": {
+                  "default_degree": 1,
+                  "question_count": 0
+            },
+            "essay": {
+                  "row_count": 3,
+                  "show": true
+            },
+            "exam_language": "rtl",
+            "match": {
+                  "choice_count": 9,
+                  "default_degree": 1,
+                  "question_count": 15
+            },
+            "multiple_answers": false,
+            "multiple_choice": {
+                  "choice_count": 0,
+                  "default_degree": 1,
+                  "question_count": 0
+            },
+            "paper_size": "a4",
+            "student_id": "qr-code"
+      },
+      "exam_solution": {
+            "bit_question": [],
+            "essay": {
+                  "essay_degree": 1,
+                  "essay_objective": 1
+            },
+            "match": [
+                  {
+                        "answers": [
+                              1
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              7
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              7
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              6
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              1
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              1
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              7
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              2
+                        ],
+                        "degree": 1
+                  },
+                  {
+                        "answers": [
+                              1
+                        ],
+                        "degree": 1
+                  }
+            ],
+            "multiple_choice": []
+      }
+}
